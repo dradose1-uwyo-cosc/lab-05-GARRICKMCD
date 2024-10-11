@@ -1,6 +1,6 @@
 # Garrick McDonald
 ## Lab 05
-## October 2024
+## 10 October 2024
 ## Worked with/sources 
 * example
 * example
