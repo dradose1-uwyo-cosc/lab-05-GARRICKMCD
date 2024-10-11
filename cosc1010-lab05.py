@@ -1,6 +1,6 @@
 # Garrick McDonald
 # UWYO COSC 1010
-# October 2024
+# 10 October 2024
 # Lab 03 
 # Lab Section: 12
 # Sources, people worked with, help given to:
